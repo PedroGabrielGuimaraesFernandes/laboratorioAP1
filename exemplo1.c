@@ -8,6 +8,6 @@ int main(){
 	printf("Prog. II\n");
 	
 	//pausa antes de terminar o programa
-	system("pause");
+	getchar();
 	return 0;
 }
